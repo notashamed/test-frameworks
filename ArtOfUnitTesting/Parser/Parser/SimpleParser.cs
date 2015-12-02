@@ -8,7 +8,7 @@ namespace Parser
 {
     public class SimpleParser
     {
-        //Method to parse a string of comma-delimited numbers and sum the results.
+        //Method that sums a string of comma-separated numbers.
         public int ParseAndSum(string numbers)
         {
             try
